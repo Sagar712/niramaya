@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.ec0dab14.css",
-    "main.js": "./static/js/main.d7384bcc.js",
+    "main.js": "./static/js/main.9e1cdd5f.js",
     "static/media/doctors.jpg": "./static/media/doctors.069c2a753e904724a006.jpg",
     "static/media/kit.jpg": "./static/media/kit.fafbdafdd52954e369cf.jpg",
     "static/media/microscope.jpg": "./static/media/microscope.5165cb790aae24ba3b58.jpg",
     "static/media/logo.png": "./static/media/logo.2935811d30c8b8f1b203.png",
     "index.html": "./index.html",
     "main.ec0dab14.css.map": "./static/css/main.ec0dab14.css.map",
-    "main.d7384bcc.js.map": "./static/js/main.d7384bcc.js.map"
+    "main.9e1cdd5f.js.map": "./static/js/main.9e1cdd5f.js.map"
   },
   "entrypoints": [
     "static/css/main.ec0dab14.css",
-    "static/js/main.d7384bcc.js"
+    "static/js/main.9e1cdd5f.js"
   ]
 }

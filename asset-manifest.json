@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.165c62d3.css",
+    "main.js": "/static/js/main.98587e41.js",
+    "static/media/doctors.jpg": "/static/media/doctors.069c2a753e904724a006.jpg",
+    "static/media/kit.jpg": "/static/media/kit.fafbdafdd52954e369cf.jpg",
+    "static/media/microscope.jpg": "/static/media/microscope.5165cb790aae24ba3b58.jpg",
+    "static/media/logo.png": "/static/media/logo.2935811d30c8b8f1b203.png",
+    "index.html": "/index.html",
+    "main.165c62d3.css.map": "/static/css/main.165c62d3.css.map",
+    "main.98587e41.js.map": "/static/js/main.98587e41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165c62d3.css",
+    "static/js/main.98587e41.js"
+  ]
+}

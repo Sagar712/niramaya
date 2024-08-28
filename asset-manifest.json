@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.ec0dab14.css",
-    "main.js": "./static/js/main.9e1cdd5f.js",
+    "main.css": "./static/css/main.60d8a471.css",
+    "main.js": "./static/js/main.c9bf702c.js",
     "static/media/doctors.jpg": "./static/media/doctors.069c2a753e904724a006.jpg",
     "static/media/kit.jpg": "./static/media/kit.fafbdafdd52954e369cf.jpg",
+    "static/media/lab1.jpg": "./static/media/lab1.6afcd943a9043ce2344f.jpg",
     "static/media/microscope.jpg": "./static/media/microscope.5165cb790aae24ba3b58.jpg",
     "static/media/logo.png": "./static/media/logo.2935811d30c8b8f1b203.png",
     "index.html": "./index.html",
-    "main.ec0dab14.css.map": "./static/css/main.ec0dab14.css.map",
-    "main.9e1cdd5f.js.map": "./static/js/main.9e1cdd5f.js.map"
+    "static/media/user-doctor.svg": "./static/media/user-doctor.6a750a70d0fde205ddf3072948892153.svg",
+    "static/media/phone.svg": "./static/media/phone.578c3b5399eab499a1cc987e23304c4e.svg",
+    "static/media/email.svg": "./static/media/email.6f468c16be918e01aeb26247588ab7cd.svg",
+    "static/media/arrow-right.svg": "./static/media/arrow-right.9548175bb37f3ddb4613f5886cf32e26.svg",
+    "main.60d8a471.css.map": "./static/css/main.60d8a471.css.map",
+    "main.c9bf702c.js.map": "./static/js/main.c9bf702c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec0dab14.css",
-    "static/js/main.9e1cdd5f.js"
+    "static/css/main.60d8a471.css",
+    "static/js/main.c9bf702c.js"
   ]
 }
